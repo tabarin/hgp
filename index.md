@@ -1,6 +1,6 @@
 
-Sur ce site, vous trouverez diverses entrées sur le programme d'histoire et de géographie en Première générale.
-Il suffit de cliquer sur les liens ci-dessous.
+Sur ce **site**, vous trouverez diverses entrées sur le programme **d'histoire et de géographie** en Première générale.
+Il suffit de **cliquer** sur les liens ci-dessous pour accéder au contenu.
 
 ## Histoire
 ### Thème 1 : L'Europe face aux révolutions
