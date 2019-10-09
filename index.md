@@ -24,21 +24,21 @@ Il suffit de cliquer sur les liens ci-dessous.
 
 ## Géographie
 ### Thème 1 : la métropolisation, un processus mondial différencié
-Les villes à l'échelle mondiale : le poids croissant des métropoles
-Des métropoles inégales et en mutation
-La France : la métropolisation et ses effets
+1. Les villes à l'échelle mondiale : le poids croissant des métropoles
+2. Des métropoles inégales et en mutation
+3. La France : la métropolisation et ses effets
 
 ### Thème 2 : Une diversification des espaces et des acteurs de la production
-Les espaces de production dans le monde : une diversité croissante
-Métropolisation, littoralisation des espaces productifs et accroissement des flux
-La France : les systèmes productifs entre valorisation local et intégration européenne et mondiale
+1. Les espaces de production dans le monde : une diversité croissante
+2. Métropolisation, littoralisation des espaces productifs et accroissement des flux
+3. La France : les systèmes productifs entre valorisation local et intégration européenne et mondiale
 
 ### Thème 3 : les espaces ruraux, multifonctionnalité ou fragmentation ?
-La fragmentation des espaces ruraux
-Affirmation des fonctions agricoles et conflits d'usages
-La France : des espaces ruraux mutlifonctionnels, entre initiatives locales et politiques européennes
+1. La fragmentation des espaces ruraux
+2. Affirmation des fonctions agricoles et conflits d'usages
+3. La France : des espaces ruraux mutlifonctionnels, entre initiatives locales et politiques européennes
 
 ### Thème 4 : La Chine, des recompositions spatiales multiples
-Développement et inégalités
-Des ressources et des environnements sous pression
-Recompositions spatiales : urbanisation, littoralisation, mutations des espaces ruraux
+1. Développement et inégalités
+2. Des ressources et des environnements sous pression
+3. Recompositions spatiales : urbanisation, littoralisation, mutations des espaces ruraux
