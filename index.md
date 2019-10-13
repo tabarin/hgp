@@ -24,8 +24,15 @@ Il suffit de **cliquer** sur les liens ci-dessous pour accéder au contenu.
 
 ## Géographie
 ### Thème 1 : la métropolisation, un processus mondial différencié
+Cours 1 : En quoi le monde devient-il urbain ?
+Notions abordées : urbanisation et métropolisation
 1. Les villes à l'échelle mondiale : le poids croissant des métropoles
+Etude de cas 1 : la mégalopole du Nord-Est des Etats-Unis : les synergies métropolitaines.
+Croquis.
 2. Des métropoles inégales et en mutation
+Etude de cas 2 : Londres et Mumbai.
+Croquis.
+Commentaire de document.
 3. La France : la métropolisation et ses effets
 
 ### Thème 2 : Une diversification des espaces et des acteurs de la production
