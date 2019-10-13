@@ -24,7 +24,7 @@ Il suffit de **cliquer** sur les liens ci-dessous pour accéder au contenu.
 
 ## Géographie
 ### Thème 1 : la métropolisation, un processus mondial différencié
-**Cours introductif : En quoi le monde devient-il urbain ?**
+[**Cours introductif : En quoi le monde devient-il urbain ?**](https://tabarin.github.io/hgp/gt10)
 
 Notions abordées : urbanisation et métropolisation
 
