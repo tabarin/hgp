@@ -42,7 +42,7 @@ Croquis.
 
 Commentaire de document.
 
-3. La France : la métropolisation et ses effets
+**3- La France : la métropolisation et ses effets**
 
 ### Thème 2 : Une diversification des espaces et des acteurs de la production
 1. Les espaces de production dans le monde : une diversité croissante
