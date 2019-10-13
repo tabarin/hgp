@@ -34,6 +34,8 @@ Etude de cas 1 : la mégalopole du Nord-Est des Etats-Unis : les synergies métr
 
 Croquis.
 
+Contextualisation
+
 **2- Des métropoles inégales et en mutation**
 
 Etude de cas 2 : Londres et Mumbai.
@@ -41,6 +43,8 @@ Etude de cas 2 : Londres et Mumbai.
 Croquis.
 
 Commentaire de document.
+
+Contextualisation
 
 **3- La France : la métropolisation et ses effets**
 
